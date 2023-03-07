@@ -1,0 +1,14 @@
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\bin\Debug\medical software.exe.config
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\bin\Debug\medical software.exe
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\bin\Debug\medical software.pdb
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\bin\Debug\medical software.xml
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical_software.body_mass_index.resources
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical_software.body_surface_area.resources
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical_software.splash_screen.resources
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical_software.formulas_page.resources
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical_software.ideal_body_weight.resources
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical_software.Resources.resources
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical software.vbproj.GenerateResource.Cache
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical software.exe
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical software.xml
+C:\Users\Prince_Tommy\Documents\medical software\abeeb project\obj\Debug\medical software.pdb
